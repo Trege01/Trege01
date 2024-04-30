@@ -54,7 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img alt="Static Badge" src="https://img.shields.io/badge/ISC2-CC?style=for-the-badge"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20Az-900?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/-ISC2_CC?&style=for-the-badge&logo=ISC2&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/ISC2-CC?&style=for-the-badge&logo=ISC2&logoColor=white"/>
 
 </div>
 
