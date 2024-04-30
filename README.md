@@ -52,8 +52,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img alt="Static Badge" src="https://img.shields.io/badge/ISC2-CC?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20Az-900?style=for-the-badge">   
+<img alt="Static Badge" src="https://img.shields.io/badge/ISC2-CC?style=for-the-badge"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20Az-900?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/-ISC2_CC-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white"/>
+
 </div>
 
 ## Projects
