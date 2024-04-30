@@ -53,7 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img alt="Static Badge" src="https://img.shields.io/badge/-ISC2-CC?style=for-the-badge"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/-ISC2-CC?&style=for-the-badge&logo=ISC2&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/-ISC2-CC?&style=for-the-badge&logo=ISC2-CC&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Microsoft_Az 900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />   
 </div>
 
